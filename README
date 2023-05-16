@@ -1,5 +1,6 @@
 Vim plugin for diffing when swap file is found.
-Greatly inspired from Christian Brabandt <cb@256bit.org>
+Greatly inspired from Christian Brabandt <cb@256bit.org> recover:
+https://github.com/chrisbra/Recover.vim
 
 License:
 Not too sure what license applies here. It should be vim if you think the VIM
